@@ -155,6 +155,5 @@ int main() {
 
     return 0;
     
-    // may my feedback or think , above it can withdraw 0.1 and deposit 0.1 not have cent lucky draw or printing cent machine like abroad and may not have help choice but it maybe in welcome note plus after insufficient bal it may give to deposit/withdraw opt. and  may have only must enter 5digit update may delete h.being
-}
+    }
 
